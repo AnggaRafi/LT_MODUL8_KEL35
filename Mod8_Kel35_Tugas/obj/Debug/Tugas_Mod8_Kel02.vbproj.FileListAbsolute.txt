@@ -1,0 +1,29 @@
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\bin\Debug\Tugas_Mod8_Kel02.exe.config
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\bin\Debug\Tugas_Mod8_Kel02.exe
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\bin\Debug\Tugas_Mod8_Kel02.pdb
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\bin\Debug\Tugas_Mod8_Kel02.xml
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.vbproj.AssemblyReference.cache
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.Form1.resources
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.Resources.resources
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.vbproj.GenerateResource.cache
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.vbproj.CoreCompileInputs.cache
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.exe
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.xml
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.pdb
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.vbproj.CopyComplete
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\bin\Debug\TempConv.dll
+D:\Koding\Praktikum RPLBK\Modul 8\Tugas_Mod8_Kel02\bin\Debug\TempConv.pdb
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\bin\Debug\Tugas_Mod8_Kel02.exe.config
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\bin\Debug\Tugas_Mod8_Kel02.exe
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\bin\Debug\Tugas_Mod8_Kel02.pdb
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\bin\Debug\Tugas_Mod8_Kel02.xml
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\bin\Debug\TempConv.pdb
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.vbproj.AssemblyReference.cache
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.Form1.resources
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.Resources.resources
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.vbproj.GenerateResource.cache
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.vbproj.CoreCompileInputs.cache
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.vbproj.CopyComplete
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.exe
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.xml
+C:\Users\Rafi\Desktop\Tugas_Mod8_Kel02\obj\Debug\Tugas_Mod8_Kel02.pdb

@@ -1,0 +1,14 @@
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\bin\Debug\Mod8_Kel35_Tugas.exe.config
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\bin\Debug\Mod8_Kel35_Tugas.exe
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\bin\Debug\Mod8_Kel35_Tugas.pdb
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\bin\Debug\Mod8_Kel35_Tugas.xml
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\bin\Debug\TempConv.pdb
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\obj\Debug\Mod8_Kel35_Tugas.vbproj.AssemblyReference.cache
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\obj\Debug\Mod8_Kel35_Tugas.Form1.resources
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\obj\Debug\Mod8_Kel35_Tugas.Resources.resources
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\obj\Debug\Mod8_Kel35_Tugas.vbproj.GenerateResource.cache
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\obj\Debug\Mod8_Kel35_Tugas.vbproj.CoreCompileInputs.cache
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\obj\Debug\Mod8_Kel35_Tugas.vbproj.CopyComplete
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\obj\Debug\Mod8_Kel35_Tugas.exe
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\obj\Debug\Mod8_Kel35_Tugas.xml
+C:\Users\Rafi\Desktop\Kel35_Tugas_Mod8\obj\Debug\Mod8_Kel35_Tugas.pdb
